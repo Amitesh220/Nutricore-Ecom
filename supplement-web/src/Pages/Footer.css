@@ -1,0 +1,41 @@
+.cool-footer {
+    background: linear-gradient(90deg, #ffffff, #808080);
+    color: #000000;
+    text-align: center;
+    padding: 15px 20px;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    font-family: Arial, sans-serif;
+  }
+  .cool-footer a:hover {
+    color: #262de8;
+  }
+  
+  .cool-footer .footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .cool-footer p {
+    margin: 0;
+    font-size: 14px;
+  }
+  
+  .cool-footer nav {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .cool-footer nav a {
+    color: #000000;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.3s ease;
+  }
+  
+  .cool-footer nav a:hover {
+    color: #f4a261;
+  }
+  
