@@ -37,21 +37,11 @@ A modern e-commerce platform built with **React** and **Redux**, providing a sea
 git clone https://github.com/Amitesh220/Nutricore-Ecom.git
 cd Nutricore-Ecom
 📦 Install Dependencies
-bash
-Copy
-Edit
 npm install
 ▶️ Start the Development Server
-bash
-Copy
-Edit
 npm start
 The application will be available at http://localhost:3000.
-
 📂 Project Structure
-php
-Copy
-Edit
 Nutricore-Ecom/
 ├── public/
 ├── src/
