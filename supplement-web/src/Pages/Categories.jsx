@@ -113,7 +113,7 @@ const categories = [
         name: 'Creatine Surge',
         price: 1200,
         currency: 'INR',
-        image: 'https://images.pexels.com/photos/4634395/pexels-photo-4634395.jpeg',
+        image: 'https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg',
         description: 'Maximize your strength and muscle power',
         details: ['Increases strength', 'Promotes muscle growth', 'Helps in recovery']
       },
