@@ -1,12 +1,12 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './Components/Navbar';
-import Home from './pages/Home';
-import Categories from './pages/Categories';
-import About from './pages/About';
-import Contact from './pages/Contact';
-import ProductDetail from './pages/ProductDetail';
-import Cart from './pages/Cart';
+import Home from './Pages/Home';
+import Categories from './Pages/Categories';
+import About from './Pages/About';
+import Contact from './Pages/Contact';
+import ProductDetail from './Pages/ProductDetail';
+import Cart from './Pages/Cart';
 import Footer from './Pages/Footer'
 
 function App() {
