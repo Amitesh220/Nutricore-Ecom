@@ -20,7 +20,7 @@ const categories = [
         name: 'VitaGlow Multivitamin',
         price: 999,
         currency: 'INR',
-        image: 'https://images.pexels.com/photos/1393245/pexels-photo-1393245.jpeg',
+        image: 'https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg',
         description: 'A daily essential for better health',
         details: ['Immune system support', 'Helps with energy levels', 'Promotes skin health']
       },
@@ -62,7 +62,7 @@ const categories = [
         name: 'ProPure Protein',
         price: 1499,
         currency: 'INR',
-        image: 'https://images.pexels.com/photos/1704128/pexels-photo-1704128.jpeg',
+        image: 'https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg',
         description: 'Pure protein for maximum muscle gain',
         details: ['Rich in protein', 'Great taste', 'Ideal for post-workout']
       },
@@ -71,7 +71,7 @@ const categories = [
         name: 'MaxMuscle Protein',
         price: 1799.50,
         currency: 'INR',
-        image: 'https://images.pexels.com/photos/3661778/pexels-photo-3661778.jpeg',
+        image: 'https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg',
         description: 'Supports muscle recovery and growth',
         details: ['Enhanced with amino acids', 'Supports lean muscle gain', 'Best for athletes']
       },
@@ -104,7 +104,7 @@ const categories = [
         name: 'PreCharge Pre-Workout',
         price: 1800.50,
         currency: 'INR',
-        image: 'https://images.pexels.com/photos/6749231/pexels-photo-6749231.jpeg',
+        image: 'https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg',
         description: 'Increase your energy and focus for workouts',
         details: ['Pre-workout energy boost', 'Improves endurance', 'Supports mental focus']
       },
@@ -113,7 +113,7 @@ const categories = [
         name: 'Creatine Surge',
         price: 1200,
         currency: 'INR',
-        image: 'https://images.pexels.com/photos/4634395/pexels-photo-4634395.jpeg',
+        image: 'https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg',
         description: 'Maximize your strength and muscle power',
         details: ['Increases strength', 'Promotes muscle growth', 'Helps in recovery']
       },
